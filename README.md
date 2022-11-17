@@ -15,3 +15,5 @@ Ligue 1 were determined to be the least competitive. The La Liga had two
 dominant teams across the decade exhibiting distinct playing styles. The
 Serie A had the most competitive upper league table. The Premier League
 has seen the rise of two new title contenders, almost imitating the La Liga
+
+
