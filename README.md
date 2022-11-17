@@ -8,6 +8,7 @@ analysis is divided into different segments, focusing on a general analysis,
 defensive performance, passing variation, and finishing ability. Teams in
 general have shifted more towards a possession and passing approach rather
 then crosses and long balls over the last 13 years.
+
 Each league is also analysed separately to determine the nature of the
 competitiveness and the variance in playing styles. The Bundesliga and
 Ligue 1 were determined to be the least competitive. The La Liga had two
