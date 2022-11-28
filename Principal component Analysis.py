@@ -328,5 +328,3 @@ elif label == 'SelTeams':
 ax.grid()
 ax1.grid()
 print(pca.explained_variance_ratio_)
-
-#/kaggle/input/performance-data-on-football-teams-09-to-22/Complete Dataset 2.csv
